@@ -7,6 +7,7 @@ const colors = ["#252525", "#525252", "#737373", "#969696", "#bdbdbd", "#d9d9d9"
 
 const charcoal = "#252525";
 const grey = "#969696";
+const white = "white"; /* lol */ 
 // *
 // * Typography
 // *
